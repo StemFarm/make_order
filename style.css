@@ -22,7 +22,7 @@ body {
 .vi {
   width: 400px;
   border: 2px solid #000;
-  margin-bottom: 10em; 
+  margin-bottom: 5em; 
 }
 
 .logo {
@@ -44,6 +44,10 @@ body {
 
 .buttons span {
   font-family: 'icomoon';
+}
+
+.buttons p {
+  margin-bottom: 5em;
 }
 
 .buttons a {
