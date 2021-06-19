@@ -3,11 +3,14 @@
   margin: 0;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+
 html {
   height: 100%;
 }
 
 body {
+  font-family: 'Caveat', cursive;
   background: url(bg.jpg) center center no-repeat #000;
   background-size: cover;
   display: flex;
