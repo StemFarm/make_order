@@ -5,6 +5,9 @@ html {
 body {
   background: url(bg.jpg) center center no-repeat #000;
   background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .buttons {
