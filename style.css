@@ -22,7 +22,7 @@ body {
 .vi {
   width: 400px;
   border: 2px solid #000;
-  margin-bottom: 5em; 
+  margin-bottom: 3em; 
 }
 
 .logo {
@@ -47,7 +47,8 @@ body {
 }
 
 .buttons p {
-  margin-bottom: 5em;
+  margin-bottom: 3em;
+  font-size: 2em;
 }
 
 .buttons a {
