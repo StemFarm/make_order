@@ -1,15 +1,28 @@
 html {
   height: 100%;
 }
+
 body {
   background: url(bg.jpg) center center no-repeat #000;
   background-size: cover;
 }
+
 .buttons {
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
+.buttons a {
+  padding: 0.5em 1em;
+  background: #fff;
+  display: block;
+  color: #000;
+  text-decoration: none;
+  border: 2px solid #000;
+  font-size: 2em;
+}
+
 @font-face {
   font-family: 'icomoon';
   src:  url('icomoon.eot?selg');
