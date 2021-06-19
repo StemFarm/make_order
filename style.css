@@ -2,6 +2,11 @@ body {
   background: url(bg.jpg) center center no-repeat #000;
   background-size: cover;
 }
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 @font-face {
   font-family: 'icomoon';
   src:  url('icomoon.eot?selg');
