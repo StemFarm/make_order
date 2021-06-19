@@ -42,6 +42,10 @@ body {
   flex-direction: column;
 }
 
+.buttons span {
+  font-family: 'icomoon';
+}
+
 .buttons a {
   padding: 0.5em 0;
   background: #fff;
